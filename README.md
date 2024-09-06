@@ -1,4 +1,5 @@
 # Welcome to my linux dotfiles
+**This is a fork from https://github.com/weygoldt/dots**
 
 **UPDATE:** I moved from managing my config via a bare git repository to GNU
 stow. This essentially symlinks all config files to where they belong while the
