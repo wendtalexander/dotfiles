@@ -1,0 +1,589 @@
+13:14:49 [0m[34m[INFO] [0m(main) Selected wl_shm format: Bgr888
+13:14:49 [0m[34m[INFO] [0m(main) Initialization succeeded! Starting main loop...
+Error: "failed to read file: No such file or directory (os error 2)"Error: 
+"failed to read file: No such file or directory (os error 2)"
+13:15:29 [0m[34m[INFO] [0m(transition) BumpPool with: 1 buffers. Size: 6075Kb
+13:15:29 [0m[34m[INFO] [0m(transition) BumpPool with: 1 buffers. Size: 6075Kb
+13:15:29 [0m[34m[INFO] [0m(transition) BumpPool with: 2 buffers. Size: 12150Kb
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:29 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[34m[INFO] [0m(transition) BumpPool with: 2 buffers. Size: 12150Kb
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:30 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:32 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:33 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:34 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:34 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:36 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:36 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:37 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:38 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:39 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:39 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:41 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:41 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:42 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:43 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:44 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:44 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:45 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:45 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:46 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+13:15:47 [0m[33m[WARN] [0m(main) Received transform. We currently ignore those
+Io error: Broken pipe (os error 32)
+thread 'main' panicked at daemon/src/main.rs:191:30:
+Io error when reading wayland events: Broken pipe (os error 32)
+note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+13:17:24 [0m[34m[INFO] [0m(main) Removed socket at "/run/user/1000/swww-wayland-1.socket"
+/usr/bin/python3: can't open file '/home/weygoldt/.config/hypr/scripts/mediaplayer.py': [Errno 2] No such file or directory
+[2024-09-05 14:45:46.554] [error] spotify stopped unexpectedly, is it endless?
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pavucontrol: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pavucontrol: command not found
+sh: line 1: pavucontrol: command not found
+sh: line 1: pamixer: command not found
+sh: line 1: pamixer: command not found
+
+(pavucontrol:230928): Gtk-WARNING **: 14:46:49.471: Unknown key gtk-modules in /home/alexander/.config/gtk-4.0/settings.ini
+
+(pavucontrol:230928): Gtk-WARNING **: 14:46:49.557: GtkGizmo 0x610e89209ab0 (slider) reported min width -2, but sizes must be >= 0
+
+(pavucontrol:230928): Gtk-WARNING **: 14:46:49.557: GtkGizmo 0x610e892069d0 (slider) reported min height -2, but sizes must be >= 0
+Gdk-Message: 15:11:43.583: Error reading events from display: Broken pipe
+[2024-09-05 15:21:18.408] [error] Can't open config file
+
+(waybar:12511): Gtk-WARNING **: 15:21:56.904: Theme parsing error: river_style.css:3:18: Not using units is deprecated. Assuming 'px'.
+[2024-09-05 15:21:56.908] [error] river_status_manager_v1 not advertised
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:21:57.021] [error] clock: chrono format error: no '%' at start of chrono-specs
+[2024-09-05 15:22:00.000] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/system_scripts/pkill_bc: No such file or directory
+bash: /home/alexander/.config/system_scripts/pkill_bc: No such file or directory
+bash: /home/alexander/.config/system_scripts/pkill_bc: No such file or directory
+bash: /home/alexander/.config/system_scripts/pkill_bc: No such file or directory
+sh: line 1: rofi: command not found
+sh: line 1: rofi: command not found
+sh: line 1: rofi: command not found
+sh: line 1: rofi: command not found
+rofi: no process found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:23:00.000] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:24:00.000] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+Terminated
+
+(waybar:13417): Gtk-WARNING **: 15:24:41.431: Theme parsing error: river_style.css:3:18: Not using units is deprecated. Assuming 'px'.
+[2024-09-05 15:24:41.436] [error] river_status_manager_v1 not advertised
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:24:41.549] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:25:00.000] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:26:00.000] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:27:00.000] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+sh: line 1: checkupdates: command not found
+[2024-09-05 15:28:00.000] [error] clock: chrono format error: no '%' at start of chrono-specs
+sh: line 1: checkupdates: command not found
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+bash: /home/alexander/.config/rofi/leave/leave.sh: No such file or directory
+Gdk-Message: 15:28:21.724: Error reading events from display: Broken pipe
