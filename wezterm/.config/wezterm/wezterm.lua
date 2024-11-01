@@ -11,8 +11,8 @@ config.colors = theme.colors()
 config.window_frame = theme.window_frame()
 
 config.font = wezterm.font("JetBrains Mono")
-config.font_size = 12
-config.enable_wayland = true
+config.font_size = 11
+config.enable_wayland = false
 config.window_background_opacity = 0.9
 
 config.keys = {
