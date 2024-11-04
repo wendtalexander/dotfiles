@@ -12,7 +12,7 @@ config.window_frame = theme.window_frame()
 
 config.font = wezterm.font("JetBrains Mono")
 config.font_size = 12
-config.enable_wayland = true
+config.enable_wayland = false
 config.window_background_opacity = 0.9
 
 config.keys = {
@@ -32,10 +32,10 @@ config.keys = {
 
 config.keys = {
 	-- paste from the clipboard
-	{ key = "V", mods = "CTRL", action = act.PasteFrom("Clipboard") },
+	{ key = "v", mods = "CTRL", action = act.PasteFrom("Clipboard") },
 
 	-- paste from the primary selection
-	{ key = "V", mods = "CTRL", action = act.PasteFrom("PrimarySelection") },
+	{ key = "v", mods = "CTRL", action = act.PasteFrom("PrimarySelection") },
 }
 -- and finally, return the configuration to wezterm
 return config
