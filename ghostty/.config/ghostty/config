@@ -1,6 +1,8 @@
 font-family = "JetBrains Mono"
 theme = rose-pine-moon
 app-notifications = no-clipboard-copy
+background-opacity = 0.9
+background-blur = true
 # This is the configuration file for Ghostty.
 #
 # This template file has been automatically created at the following
