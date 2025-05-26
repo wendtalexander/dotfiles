@@ -222,3 +222,8 @@ sort_by      	 = "key"
 sort_sensitive = false
 sort_reverse 	 = false
 sort_translit  = false
+
+[[manager.prepend_keymap]]
+on   = "p"
+run  = "plugin smart-paste"
+desc = "Paste into the hovered directory or CWD"

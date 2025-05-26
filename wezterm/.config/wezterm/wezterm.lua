@@ -5,16 +5,15 @@ local wezterm = require("wezterm")
 local config = wezterm.config_builder()
 local act = wezterm.action
 
--- This is where you actually apply your config choices
-local theme = wezterm.plugin.require("https://github.com/neapsix/wezterm").main
-config.colors = theme.colors()
-config.window_frame = theme.window_frame()
-
-config.font = wezterm.font("JetBrains Mono", { weight = "Medium" })
 config.warn_about_missing_glyphs = false
-config.font_size = 11
-config.enable_wayland = false
-config.window_background_opacity = 0.9
+-- config.enable_wayland = false
+config.window_background_opacity = 0.95
+
+config.font_size = 14.5
+config.color_scheme = "rose-pine-moon"
+config.front_end = "WebGpu"
+config.font = wezterm.font("GeistMono Nerd Font")
+config.line_height = 1.1
 
 config.keys = {
 	{
@@ -40,4 +39,5 @@ config.keys = {
 }
 -- and finally, return the configuration to wezterm
 --
+config.enable_tab_bar = false
 return config
