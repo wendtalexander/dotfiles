@@ -3,6 +3,7 @@ theme = rose-pine-moon
 app-notifications = no-clipboard-copy
 background-opacity = 0.9
 background-blur = true
+font-family = GeistMono Nerd Font
 # This is the configuration file for Ghostty.
 #
 # This template file has been automatically created at the following
@@ -24,7 +25,6 @@ background-blur = true
 # ==========================
 # # The config file consists of simple key-value pairs,
 # # separated by equals signs.
-# font-family = Iosevka
 # window-padding-x = 2
 #
 # # Spacing around the equals sign does not matter.
