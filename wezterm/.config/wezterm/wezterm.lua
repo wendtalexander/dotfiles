@@ -6,10 +6,10 @@ local config = wezterm.config_builder()
 local act = wezterm.action
 
 config.warn_about_missing_glyphs = false
--- config.enable_wayland = false
+config.enable_wayland = false
 config.window_background_opacity = 0.95
 
-config.font_size = 14.5
+config.font_size = 14
 config.color_scheme = "rose-pine-moon"
 config.front_end = "WebGpu"
 config.font = wezterm.font("GeistMono Nerd Font")
