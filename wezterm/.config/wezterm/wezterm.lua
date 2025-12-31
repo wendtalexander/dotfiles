@@ -7,7 +7,7 @@ local act = wezterm.action
 
 config.warn_about_missing_glyphs = false
 config.enable_wayland = false
-config.window_background_opacity = 0.95
+config.window_background_opacity = 0.9
 
 config.font_size = 14
 config.color_scheme = "rose-pine-moon"
