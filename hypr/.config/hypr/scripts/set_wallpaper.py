@@ -30,7 +30,7 @@ def main():
 
     # set the wallpaper
     os.system(
-        f'swww img "{args.path}/{image}" --transition-type "{transition}" --transition-step "{smoothness}" --transition-fps "{fps}"'
+        f'awww img "{args.path}/{image}" --transition-type "{transition}" --transition-step "{smoothness}" --transition-fps "{fps}"'
     )
 
 

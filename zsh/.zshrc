@@ -45,3 +45,5 @@ export NVM_DIR="$HOME/.nvm"
 
 eval "$(uv generate-shell-completion zsh)"
 eval "$(uvx --generate-shell-completion zsh)"
+
+fpath+=~/.zfunc; autoload -Uz compinit; compinit
